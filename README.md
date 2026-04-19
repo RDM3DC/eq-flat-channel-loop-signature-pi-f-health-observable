@@ -1,5 +1,12 @@
 # Flat-Channel Loop Signature (pi_f Health Observable)
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Flat-channel loop signature (π_f health observable)](images/flat_channel_loop_signature.gif)
+
+_Hero animation: **Flat-channel loop signature (π_f health observable)**. [Download high-resolution MP4](images/flat_channel_loop_signature.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 **ID:** `eq-flat-channel-loop-signature-pi-f-health-observable`  
 **Tier:** derived  
 **Score:** 95  
