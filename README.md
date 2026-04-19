@@ -1,6 +1,5 @@
 # Flat-Channel Loop Signature (pi_f Health Observable)
 
-
 <!-- HERO_ANIMATION:BEGIN -->
 ![Flat-channel loop signature (π_f health observable)](images/flat_channel_loop_signature.gif)
 
